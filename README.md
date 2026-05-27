@@ -8,7 +8,7 @@
   Example: Upload an image to your repo and use the raw link.
 -->
 <div align="center">
-  <img src="https://your-image-url-here.com/banner.png" alt="Faizan Ahmed Banner"/>
+  <img src="https://github.com/FaizanAhmed44/FaizanAhmed44/blob/main/faizan-ahmed-cover.png" alt="Faizan Ahmed Banner"/>
 </div>
 
 ---
