@@ -1,21 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
-
 <!-- 
-  👇 Add your banner/profile image below.
-  Replace the src with your actual image URL (GitHub hosted or any public link).
-  Example: Upload an image to your repo and use the raw link.
+  👇 Cover image — upload faizan-ahmed-cover.png to your repo and replace the src with the raw URL.
+  Example: https://raw.githubusercontent.com/FaizanAhmed44/FaizanAhmed44/main/faizan-ahmed-cover.png
 -->
 <div align="center">
-  <img src="https://github.com/FaizanAhmed44/FaizanAhmed44/blob/main/faizan-ahmed-cover.png" alt="Faizan Ahmed Banner"/>
+  <img src="https://raw.githubusercontent.com/FaizanAhmed44/FaizanAhmed44/main/faizan-ahmed-cover.png" alt="Faizan Ahmed" width="100%"/>
 </div>
 
----
-
 <div align="center">
-  <h1>Faizan Ahmed</h1>
-  <h3>Software Engineer · Flutter Developer · Full-Stack Builder</h3>
   <p>
     <a href="mailto:faizanahmed765h@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     &nbsp;
