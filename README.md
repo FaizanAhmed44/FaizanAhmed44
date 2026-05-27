@@ -2,6 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
+<!-- 
+  👇 Add your banner/profile image below.
+  Replace the src with your actual image URL (GitHub hosted or any public link).
+  Example: Upload an image to your repo and use the raw link.
+-->
+<div align="center">
+  <img src="https://your-image-url-here.com/banner.png" alt="Faizan Ahmed Banner"/>
+</div>
+
+---
+
 <div align="center">
   <h1>Faizan Ahmed</h1>
   <h3>Software Engineer · Flutter Developer · Full-Stack Builder</h3>
@@ -61,31 +72,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Software Engineer – Flutter · **EtechAll** *(Oct 2025 – Present)*
-- Developing and maintaining cross-platform mobile apps using Flutter for Android & iOS
-- Integrating RESTful APIs, implementing features, and optimizing app performance
-- Managing production releases on Google Play Store
-
-### 🏢 Software Engineering Intern · **MazikGlobal Pakistan** *(Jun 2025 – Aug 2025)*
-- Built business applications using React, TypeScript, and Dataverse on Microsoft Power Platform
-- Automated workflows with Power Automate and integrated FastAPI for backend communication
-- Delivered low-code solutions in collaboration with cross-functional teams
-
-### 🏢 IT Intern · **Karachi Development Authority (KDA)** *(Mar 2025 – Apr 2025)*
-- Assisted in software maintenance and resolved daily technical issues
-- Supported data handling and system operations
-
-### 🏢 Mobile App Developer Intern · **Invision Custom Solutions** *(Jul 2024 – Aug 2024)*
-- Built a Flutter + Firebase library management app with real-time data sync
-- Applied Clean Architecture and state management in a team environment
-
-### 🏢 Flutter Developer Intern · **CodSoft** *(May 2024 – Jun 2024)*
-- Built 3 Flutter applications showcasing Dart & Flutter fundamentals
-
----
-
 ## 🚀 Key Projects
 
 | Project | Tech Stack | Highlights |
@@ -95,25 +81,6 @@
 | 💼 **JobGo** | Flutter, Firebase, Provider | Job finder app with real-time chat & employer dashboard |
 | 🍳 **Cuisine AI** | Flutter, Groq API, Provider | AI-powered recipe & meal planner using Groq API |
 | 📸 **Flickgram** | Flutter, Firebase | Social media app with posts, likes, follows & push notifications |
-
----
-
-## 🎓 Education
-
-🎓 **B.S. Computer Science** · NED University of Engineering & Technology *(Oct 2022 – Jun 2026)*
-> 4th Year | **CGPA: 3.69 / 4.0**
-
-📚 **Intermediate (Pre-Engineering)** · Government Degree College Malir Cantt *(2020 – 2022)*
-> Percentage: **89%**
-
----
-
-## 🏆 Certifications
-
-- 🎖️ **Google AI Professional Certificate** · Google / Coursera *(May 2026)*
-  - 7 courses · 15+ AI-powered projects · Responsible AI practices
-- 🎖️ **HCIA Datacom** · Huawei *(May 2025)*
-  - Data communications, networking protocols & ICT infrastructure
 
 ---
 
@@ -154,8 +121,14 @@
 
 <div align="center">
   <h3>"Build things that matter. Ship things that work."</h3>
-  <a href="https://faizan-ahmed.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20Portfolio-302b63?style=for-the-badge&logoColor=white&labelColor=0f0c29" alt="Portfolio"/>
+
+  <!-- 
+    👇 Replace the href below with your actual Google Drive resume link.
+    Example: https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing
+  -->
+  <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK_HERE" target="_blank" download>
+    <img src="https://img.shields.io/badge/📄 Download%20Resume-302b63?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0f0c29" alt="Download Resume"/>
   </a>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
 </div>
